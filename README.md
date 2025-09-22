@@ -35,7 +35,13 @@ cd examples
 pyrefly check <example_file_name.py>
 ```
 
-Install the IDE extension for hover and autocomplete: [https://pyrefly.org/en/docs/IDE/](https://pyrefly.org/en/docs/IDE/)
+This will give you errors similar to runtime validation
+
+```bash
+python <example_file_name.py>
+```
+
+To see the errors in your IDE instantly as you type, install the IDE extension which will also give you hover and autocomplete: [https://pyrefly.org/en/docs/IDE/](https://pyrefly.org/en/docs/IDE/)
 
 <img width="828" height="284" alt="Screenshot 2025-09-22 at 2 38 07 PM" src="https://github.com/user-attachments/assets/7792ebd0-4319-46c6-a38f-485624ec3935" />
 
