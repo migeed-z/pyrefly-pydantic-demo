@@ -47,5 +47,5 @@ To see the errors in your IDE instantly as you type, install the IDE extension w
 
 
 ### 4. Make sure you are using the right conda env in your IDE 
-If you are using an IDE, make sure you set your conda environment to `pyrefly-pydantic-demo`. 
+If you are using an IDE, make sure you set your environment to `pyrefly-pydantic-demo`. 
 Instructions on how to do so in VSCode can be found [here](https://code.visualstudio.com/docs/python/environments#_select-and-activate-an-environment). 
