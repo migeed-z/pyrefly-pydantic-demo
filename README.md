@@ -37,6 +37,9 @@ pyrefly check <example_file_name.py>
 
 Install the IDE extension for hover and autocomplete: [https://pyrefly.org/en/docs/IDE/](https://pyrefly.org/en/docs/IDE/)
 
+<img width="828" height="284" alt="Screenshot 2025-09-22 at 2 38 07 PM" src="https://github.com/user-attachments/assets/7792ebd0-4319-46c6-a38f-485624ec3935" />
+
+
 ### 4. Make sure you are using the right conda env in your IDE 
 If you are using an IDE, make sure you set your conda environment to `pyrefly-pydantic-demo`. 
 Instructions on how to do so in VSCode can be found [here](https://code.visualstudio.com/docs/python/environments#_select-and-activate-an-environment). 
