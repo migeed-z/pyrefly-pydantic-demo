@@ -1,1 +1,2 @@
-pydantic
+pydantic==2.11.9
+pyrefly==0.32.0
