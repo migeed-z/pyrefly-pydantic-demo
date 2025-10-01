@@ -12,4 +12,4 @@ dependencies:
   - typing-extensions=4.15.0
   - typing-inspection
   - annotated-types=0.7.0
-  - pyrefly=0.32.0
+  - pyrefly=0.33.0
